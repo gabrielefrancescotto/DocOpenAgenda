@@ -1,11 +1,11 @@
 ####################
-Titolo del documento
+Manuale Open Agenda
 ####################
 
 
-Questo documento descrive ... 
+Questo documento descrive il funzionamento del sistema open source Open Agenda
 
-Nel Capitolo 1 vengono presentati ... 
+Nel Capitolo 1 
 
 Nel Capitolo 2 vengono presentati ...
 

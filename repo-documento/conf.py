@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Titolo del documento"
-settings_copyright_copyleft = 'AgID - Team Digitale'
-settings_editor_name = 'AgID - Team Digitale'
+settings_project_name = "Manuale OpenAgenda"
+settings_copyright_copyleft = 'Opencontent'
+settings_editor_name = 'Opencontent'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'titolo-documento'
-settings_file_name = 'titolo-documento'
+settings_basename = 'manuale-openagenda'
+settings_file_name = 'manuale-openagenda'
 
 # -- No need to change below here
 

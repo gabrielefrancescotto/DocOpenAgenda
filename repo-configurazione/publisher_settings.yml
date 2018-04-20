@@ -1,19 +1,10 @@
 publisher:
-  name: Ministero della Documentazione Pubblica
-  short-name: Min. Doc. Pub.
+  name: Opencontent Scarl
+  short-name: Opencontent
   description: |
-    Lorem ipsum dolor sit amet, consectetur 
-    adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud 
-    exercitation ullamco laboris nisi ut 
-    aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in 
-    voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint 
-    occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id 
-    est laborum.
-  website: https://www.ministerodocumentazione.gov.it
+    Opencontent offre metodologie e strumenti tecnologici che semplificano 
+    la vita a chi si occupa di content management e consentono di estrarre il massimo valore dai dati; 
+    persegue un business model basato sull'Open Source, puntando su innovazione ed efficienza.
+  website: https://www.opencontent.it/
   assets:
-    logo: assets/images/logo.svg
+    logo: 
