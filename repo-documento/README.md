@@ -1,12 +1,10 @@
-Progetto, Argomento
+Manuale OpenAgenda
 ===================
 
-Questo repository contiene la documentazione relativa a [Open Agenda](). 
-In particolare, qui viene trattato [ARGOMENTO opzionale]().
+Questo repository contiene la documentazione relativa a [Open Agenda](https://www.opencontent.it/Per-la-PA/OpenAgenda). 
+
 
 Link
 ----
 
-# Link alla [documentazione compilata su ReadTheDocs](http://starter-kit-docs-italia.readthedocs.io/).
-
-Link ai [documenti originali (se presenti)]().
+# Link alla [documentazione compilata su ReadTheDocs](http://manuale-open-agenda.readthedocs.io/it/latest/).
