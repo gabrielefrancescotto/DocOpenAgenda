@@ -13,7 +13,9 @@ settings_file_name = 'manuale-openagenda'
 # -- No need to change below here
 
 import sys, os
+
 docs_italia_theme = __import__("docs-italia-theme")
+
 from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
 
