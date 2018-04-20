@@ -1,13 +1,15 @@
 ####################
-Manuale Open Agenda
+Manuale OpenAgenda
 ####################
 
 
-Questo documento descrive il funzionamento del sistema open source Open Agenda
+Questo documento descrive il funzionamento del sistema open source Open Agenda.
+Si divide in tre parti:
 
-Nel Capitolo 1 
+1. Introduzione al sistema OpenAgenda
+2. Manuale per le Associazioni e istituti culturali
+3. Manuale per Amministratori e Moderatori
 
-Nel Capitolo 2 vengono presentati ...
 
 .. toctree::
 
