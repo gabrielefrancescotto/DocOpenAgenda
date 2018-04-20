@@ -14,7 +14,7 @@ settings_file_name = 'manuale-openagenda'
 
 import sys, os
 
-docs_italia_theme = __import__("docs-italia-theme")
+#docs_italia_theme = __import__("docs-italia-theme")
 
 from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
@@ -49,8 +49,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
-    'sphinx.ext.ifconfig',
-    'docs-italia-theme',
+    'sphinx.ext.ifconfig'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -114,35 +113,35 @@ def setup(app):
 
 
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'docs-italia-theme'
+#html_theme = 'docs-italia-theme'
 
-html_theme_path = [docs_italia_theme.get_html_theme_path()]
+#html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-html_theme_options = {
+#html_theme_options = {
     # This option can be used with docs-italia-theme to customise how the versions "badge" is shown:
     # 'False': default (alabaster) badge | 'True': custom (italia) badge
-    'custom_versions_badge': 'True',
-    'collapse_navigation': 'True',
-}
+#    'custom_versions_badge': 'True',
+#    'collapse_navigation': 'True',
+#}
 # -- ReadTheDoc requirements and local template generation---------------------
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+#on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
-if not on_rtd:  # only import and set the theme if we're building docs locally
-    html_theme = 'docs-italia-theme'
+#if not on_rtd:  # only import and set the theme if we're building docs locally
+#    html_theme = 'docs-italia-theme'
     #html_theme_path = ["themes", ]
-else:
+#else:
     # Override default css to get a larger width for ReadTheDoc build
-    html_context = {
-        'css_files': [
-            '_static/css/theme.css',
-            '_static/css/badge_only.css',
-        ],
-    }
+#    html_context = {
+#        'css_files': [
+#            '_static/css/theme.css',
+#            '_static/css/badge_only.css',
+#        ],
+#    }
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
