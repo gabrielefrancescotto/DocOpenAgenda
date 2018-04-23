@@ -37,11 +37,8 @@ Gli utenti che possono accedere al sistema OpenAgenda sono:
   se il sistema dei commenti è attivato, utenti registrati possono inserire dei commenti sotto gli eventi inseriti nel sistema
 
 
-La descrizione del funzionamento del sistema OpenAgenda si divide in due parti:
-
-2. Manuale per le Associazioni e istituti culturali
-3. Manuale per Amministratori e Moderatori
-
+La descrizione del funzionamento del sistema OpenAgenda si divide in due parti: 
+un manuale per **Associazioni e istituti culturali**, e un manuale per **Amministratori e Moderatori**
 
 .. toctree::
 
