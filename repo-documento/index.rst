@@ -2,26 +2,36 @@
 Manuale OpenAgenda
 ####################
 
-OpenAgenda è un **calendario web collaborativo**. 
-Gestisce principalmente contenuti di due tipi:
+Con OpenAgenda, la P.A. propone un significativo cambio di paradigma rispetto al passato: 
+rende autonomi e responsabilizza i cittadini nella gestione degli eventi pubblici, 
+mantenendo un ruolo di coordinamento e di validazione dell’intero processo, 
+a garanzia del suo corretto funzionamento.
+
+OpenAgenda è un **calendario web collaborativo**, che gestisce principalmente contenuti di due tipi:
 
 **Eventi**
   gli eventi che avvengono sul territorio
 **Associazioni**
   schede che rappresentano le associazioni presenti sul territorio.
 
-OpenAgenda può essere configurato per la **collaborazione**, in modo da consentire che 
-utenti esterni (le Associazioni) inseriscano eventi nel sistema.
+Collaborazione, moderazione
+--------------------------- 
+Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono **collaborazione** e **moderazione**:
+OpenAgenda può infatti essere configurato per la **collaborazione**, in modo da consentire l'inserimento di eventi da 
+parte di utenti esterni (le Associazioni).
+Inoltre è possibile attivare la **moderazione** in modo che la pubblicazione degli eventi inseriti dalle 
+associazioni venga validata da una redazione centrale prima di essere resi visibili sul calendario.
 
-E' possibile attivare la **moderazione** in modo che la pubblicazione degli eventi inseriti dalle associazioni venga validata da una redazione
-centrale prima di essere resi visibili sul sito web.
+.. important::
+      
+      
+      Esempio tipico di funzionamento
+      -------------------------------
+      La situazione più comune è quella che vede le associazioni territoriali che curano 
+      la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda.
+      Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori,
+      inserendo eventuali informazioni mancanti e/o immagini, prima di renderli visibili sul calendario.
 
-Esempio tipico di funzionamento
--------------------------------
-La situazione più comune è quella di un gruppo di associazioni territoriali che curano 
-la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda.
-Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori,
-inserendo eventuali informazioni mancanti e/o immagini, prima di renderli visibili sul calendario web.
 
 Tipi di accesso
 ---------------
