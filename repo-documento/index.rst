@@ -15,7 +15,7 @@ OpenAgenda è un **calendario web collaborativo**, che gestisce principalmente c
   schede che rappresentano le associazioni presenti sul territorio.
 
 Collaborazione, moderazione
-###########################
+---------------------------
 
 Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono **collaborazione** e **moderazione**:
 OpenAgenda può infatti essere configurato per la **collaborazione**, in modo da consentire l'inserimento di eventi da 
@@ -28,6 +28,7 @@ associazioni venga validata da una redazione centrale prima di essere resi visib
       
       Esempio tipico di funzionamento
       -------------------------------
+      
       La situazione più comune è quella che vede le associazioni territoriali che curano 
       la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda.
       Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori,
