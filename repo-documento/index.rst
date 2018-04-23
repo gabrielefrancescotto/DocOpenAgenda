@@ -14,25 +14,50 @@ OpenAgenda è un **calendario web collaborativo**, che gestisce principalmente c
 **Associazioni**
   schede che rappresentano le associazioni presenti sul territorio.
 
-Collaborazione, moderazione
----------------------------
-
-Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono **collaborazione** e **moderazione**:
-OpenAgenda può infatti essere configurato per la **collaborazione**, in modo da consentire l'inserimento di eventi da 
-parte di utenti esterni (le Associazioni).
-Inoltre è possibile attivare la **moderazione** in modo che la pubblicazione degli eventi inseriti dalle 
-associazioni venga validata da una redazione centrale prima di essere resi visibili sul calendario.
-
-.. important::
-      
-      
-      Esempio tipico di funzionamento
-      -------------------------------
-      
+Esempio tipico di funzionamento
+-------------------------------
       La situazione più comune è quella che vede le associazioni territoriali che curano 
       la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda.
       Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori,
       inserendo eventuali informazioni mancanti e/o immagini, prima di renderli visibili sul calendario.
+
+
+.. important::
+
+
+      Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono **collaborazione** e **moderazione**:
+      OpenAgenda può infatti essere configurato per la **collaborazione**, in modo da consentire l'inserimento di eventi da 
+      parte di utenti esterni (le Associazioni).
+      Inoltre è possibile attivare la **moderazione** in modo che la pubblicazione degli eventi inseriti dalle 
+      associazioni venga validata da una redazione centrale prima di essere resi visibili sul calendario.
+
+Visualizzazione degli eventi
+----------------------------
+
+Gli eventi caricati sul sistema OpenAgenda sono visibili in tre modalità:
+
+Lista (con filtri)
+Gli eventi vengono mostrati in una lista che li presenta in ordine cronologico per data di inizio.
+E' possibile filtrare per periodo (es. "i prossimi 7 giorni", "i prossimi 30 giorni" ), 
+per tipologia evento, per destinatari.
+
+Calendario 
+La rappresentazione a calendario è utile per verificare la concomitanza di eventi in una stessa giornata, 
+o per verificare la presenza di eventi in un determinato periodo.
+
+
+Mappa
+In fase di inserimento eventi, viene richiesto di inserire la geolocalizzazione.
+Questo consente di rappresentare i contenuti su una mappa, come illustrato in figura:
+
+//immagine mappa
+
+.. important::
+
+
+      OpenAgenda è stato progettato e implementato per garantire una visualizzazione ottimale sui dispositivi mobili.
+      Per questo motivo la rappresentazione standard degli eventi è quella a lista, 
+      perché risulta la pià facilmente fruibile da quei dispositivi.
 
 
 Tipi di accesso
