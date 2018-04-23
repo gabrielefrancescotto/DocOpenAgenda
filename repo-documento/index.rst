@@ -15,7 +15,8 @@ OpenAgenda è un **calendario web collaborativo**, che gestisce principalmente c
   schede che rappresentano le associazioni presenti sul territorio.
 
 Collaborazione, moderazione
---------------------------- 
+###########################
+
 Due concetti fondamentali per comprendere il funzionamento di OpenAgenda sono **collaborazione** e **moderazione**:
 OpenAgenda può infatti essere configurato per la **collaborazione**, in modo da consentire l'inserimento di eventi da 
 parte di utenti esterni (le Associazioni).
