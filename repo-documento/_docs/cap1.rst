@@ -56,7 +56,7 @@ Una volta effettuato il primo accesso è importante inserire tutte le informazio
 Per accedere alla modifica della scheda della propria associazione, premere sull’icona del profilo sulla barra del menu, e poi 
 selezionare la voce “Profilo”.
 
-.. figure:: ../_img/maccesso-al-profilo.png
+.. figure:: ../_img/accesso-al-profilo.png
 
 Si accede al proprio profilo. Da qui è possibile re-impostare la password oppure modificare il profilo (la scheda Associazione).
 Premere sul pulsante “Modifica profilo” per accedere al form di modifica della scheda Associazione e compilarlo lcon tutte le informazioni necessarie.
