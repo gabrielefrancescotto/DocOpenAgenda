@@ -8,7 +8,13 @@ di eventi sul sistema OpenAgenda, in modo che essi siano visibili sul calendario
 
 
 Iscrizione al sistema
+----------------------
+La registrazione al sistema dipende da come il sistema è configurato. 
+Ci sono casi in cui l'iscrizione delle associazioni viene fatta d'ufficio da parte dell'ente, che poi 
+ha cura di comunicare le credenziali alle associazioni. In alternativa le associazioni hanno la possibilità
+di iscriversi al sistema attraverso il link raggiungibile dalla home page del calendario, in basso a destra:
 
+.. figure:: _img/iscrizione.png
 
 
 Accesso al sistema

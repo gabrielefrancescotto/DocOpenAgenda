@@ -16,10 +16,10 @@ OpenAgenda è un **calendario web collaborativo**, che gestisce principalmente c
 
 Esempio tipico di funzionamento
 -------------------------------
-      La situazione più comune è quella che vede le associazioni territoriali che curano 
-      la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda.
-      Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori,
-      inserendo eventuali informazioni mancanti e/o immagini, prima di renderli visibili sul calendario.
+La situazione più comune è quella che vede le associazioni territoriali che curano 
+la propria scheda (mantenendo aggiornati i dati) e caricano i propri eventi sul sistema OpenAgenda.
+Una redazione centrale si occupa poi della moderazione degli eventi, aggiustando eventuali errori,
+inserendo eventuali informazioni mancanti e/o immagini, prima di renderli visibili sul calendario.
 
 
 .. important::
